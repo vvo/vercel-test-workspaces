@@ -1,5 +1,5 @@
 {
-  "name": "test-workspaces",
+  "name": "test-workspaces-2",
   "private": true,
   "scripts": {
     "dev": "next dev",
